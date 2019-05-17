@@ -1,0 +1,137 @@
+[
+  {
+    "Title": "Le Pere Goriot",
+    "Take_status": true,
+    "Genre": "mathematics",
+    "Pages": 443,
+    "Author": "Honore de Balzac",
+    "Country": "France",
+    "Language": "French"
+  },
+  {
+    "Title": "The Decameron",
+    "Take_status": true,
+    "Genre": "history",
+    "Pages": 1024,
+    "Author": "Giovanni Boccaccio",
+    "Country": "Italy",
+    "Language": "Italian"
+  },
+  {
+    "Title": "Ficciones",
+    "Take_status": true,
+    "Genre": "data_science",
+    "Pages": 224,
+    "Author": "Jorge Luis Borges",
+    "Country": "Argentina",
+    "Language": "Spanish"
+  },
+  {
+    "Title": "dd",
+    "Author": "dd",
+    "Country": "dd",
+    "Language": "dd",
+    "Genre": "dd",
+    "Pages": 4,
+    "Take_status": true
+  },
+  {
+    "Title": "Sometxt",
+    "Author": "Sometxt",
+    "Country": "Sometxt",
+    "Language": "Sometxt",
+    "Genre": "Sometxt",
+    "Pages": 5,
+    "Take_status": true
+  },
+  {
+    "Title": "Sometxt",
+    "Author": "Sometxt",
+    "Country": "Sometxt",
+    "Language": "Sometxt",
+    "Genre": "Sometxt",
+    "Pages": 5,
+    "Take_status": true
+  },
+  {
+    "Title": "Sometxt",
+    "Author": "Sometxt",
+    "Country": "Sometxt",
+    "Language": "Sometxt",
+    "Genre": "Sometxt",
+    "Pages": 5,
+    "Take_status": true
+  },
+  {
+    "Title": "Sometxt",
+    "Author": "Sometxt",
+    "Country": "Sometxt",
+    "Language": "Sometxt",
+    "Genre": "Sometxt",
+    "Pages": 5,
+    "Take_status": true
+  },
+  {
+    "Title": "Sometxt",
+    "Author": "Sometxt",
+    "Country": "Sometxt",
+    "Language": "Sometxt",
+    "Genre": "Sometxt",
+    "Pages": 5,
+    "Take_status": true
+  },
+  {
+    "Title": "d",
+    "Author": "dd",
+    "Country": "d",
+    "Language": "d",
+    "Genre": "d",
+    "Pages": 4,
+    "Take_status": true
+  },
+  {
+    "Title": "Sometxt",
+    "Author": "Sometxt",
+    "Country": "Sometxt",
+    "Language": "Sometxt",
+    "Genre": "Sometxt",
+    "Pages": 5,
+    "Take_status": true
+  },
+  {
+    "Title": "Sometxt",
+    "Author": "Sometxt",
+    "Country": "Sometxt",
+    "Language": "Sometxt",
+    "Genre": "Sometxt",
+    "Pages": 5,
+    "Take_status": true
+  },
+  {
+    "Title": "Sometxt",
+    "Author": "Sometxt",
+    "Country": "Sometxt",
+    "Language": "Sometxt",
+    "Genre": "Sometxt",
+    "Pages": 5,
+    "Take_status": true
+  },
+  {
+    "Title": "Sometxt",
+    "Author": "Sometxt",
+    "Country": "Sometxt",
+    "Language": "Sometxt",
+    "Genre": "Sometxt",
+    "Pages": 5,
+    "Take_status": true
+  },
+  {
+    "Title": "Sometxt",
+    "Author": "Sometxt",
+    "Country": "Sometxt",
+    "Language": "Sometxt",
+    "Genre": "Sometxt",
+    "Pages": 5,
+    "Take_status": true
+  }
+]

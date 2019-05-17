@@ -1,0 +1,93 @@
+Pride and Prejudice;Jane Austen;United Kingdom;English;data_science;226;TRUE
+Le Pere Goriot;Honore de Balzac;France;French;mathematics;443;FALSE
+Molloy, Malone Dies, The Unnamable, the trilogy;Samuel Beckett;Republic of Ireland;French, English;economics;256;TRUE
+The Decameron;Giovanni Boccaccio;Italy;Italian;history;1024;FALSE
+Ficciones;Jorge Luis Borges;Argentina;Spanish;data_science;224;FALSE
+Wuthering Heights;Emily Bronte;United Kingdom;English;history;342;FALSE
+The Stranger;Albert Camus;Algeria, French Empire;French;science;185;FALSE
+Poems;Paul Celan;Romania, France;German;signal_processing;320;FALSE
+Journey to the End of the Night;Louis-Ferdinand Celine;France;French;psychology;505;TRUE
+Don Quijote De La Mancha;Miguel de Cervantes;Spain;Spanish;data_science;1056;FALSE
+The Canterbury Tales;Geoffrey Chaucer;England;English;fiction;544;FALSE
+Stories;Anton Chekhov;Russia;Russian;mathematics;194;TRUE
+Nostromo;Joseph Conrad;United Kingdom;English;computer_science;320;FALSE
+Great Expectations;Charles Dickens;United Kingdom;English;history;194;TRUE
+Jacques the Fatalist;Denis Diderot;France;French;fiction;596;TRUE
+Berlin Alexanderplatz;Alfred Doblin;Germany;German;data_science;600;FALSE
+Crime and Punishment;Fyodor Dostoevsky;Russia;Russian;data_science;551;FALSE
+The Idiot;Fyodor Dostoevsky;Russia;Russian;fiction;656;FALSE
+The Possessed;Fyodor Dostoevsky;Russia;Russian;science;768;FALSE
+The Brothers Karamazov;Fyodor Dostoevsky;Russia;Russian;computer_science;824;TRUE
+Middlemarch;George Eliot;United Kingdom;English;mathematics;800;FALSE
+Invisible Man;Ralph Ellison;United States;English;data_science;581;FALSE
+Medea;Euripides;Greece;Greek;data_science;104;FALSE
+Absalom, Absalom!;William Faulkner;United States;English;data_science;313;FALSE
+The Sound and the Fury;William Faulkner;United States;English;computer_science;326;FALSE
+Madame Bovary;Gustave Flaubert;France;French;nonfiction;528;TRUE
+Sentimental Education;Gustave Flaubert;France;French;fiction;606;FALSE
+Gypsy Ballads;Federico Garcia Lorca;Spain;Spanish;fiction;218;TRUE
+One Hundred Years of Solitude;Gabriel Garcia Marquez;Colombia;Spanish;fiction;417;FALSE
+Love in the Time of Cholera;Gabriel Garcia Marquez;Colombia;Spanish;economics;368;TRUE
+Faust;Johann Wolfgang von Goethe;Saxe-Weimar;German;fiction;158;FALSE
+Dead Souls;Nikolai Gogol;Russia;Russian;nonfiction;432;FALSE
+The Tin Drum;Genter Grass;Germany;German;science;600;FALSE
+The Devil to Pay in the Backlands;Joao Guimaraes Rosa;Brazil;Portuguese;science;494;FALSE
+Hunger;Knut Hamsun;Norway;Norwegian;fiction;176;FALSE
+The Old Man and the Sea;Ernest Hemingway;United States;English;fiction;128;TRUE
+Iliad;Homer;Greece;Greek;fiction;608;FALSE
+Odyssey;Homer;Greece;Greek;nonfiction;374;FALSE
+A Doll's House;Henrik Ibsen;Norway;Norwegian;philosophy;68;FALSE
+Ulysses;James Joyce;Irish Free State;English;fiction;228;TRUE
+Stories;Franz Kafka;Czechoslovakia;German;nonfiction;488;FALSE
+The Trial;Franz Kafka;Czechoslovakia;German;fiction;160;FALSE
+The Castle;Franz Kafka;Czechoslovakia;German;economics;352;FALSE
+The recognition of Shakuntala;Kalidasa;India;Sanskrit;science;147;TRUE
+The Sound of the Mountain;Yasunari Kawabata;Japan;Japanese;philosophy;288;FALSE
+Zorba the Greek;Nikos Kazantzakis;Greece;Greek;fiction;368;FALSE
+Sons and Lovers;D. H. Lawrence;United Kingdom;English;fiction;432;TRUE
+Independent People;Halldor Laxness;Iceland;Icelandic;nonfiction;470;TRUE
+Poems;Giacomo Leopardi;Italy;Italian;fiction;184;FALSE
+The Golden Notebook;Doris Lessing;United Kingdom;English;fiction;688;TRUE
+Pippi Longstocking;Astrid Lindgren;Sweden;Swedish;fiction;160;FALSE
+Diary of a Madman;Lu Xun;China;Chinese;fiction;389;TRUE
+Children of Gebelawi;Naguib Mahfouz;Egypt;Arabic;nonfiction;355;FALSE
+Buddenbrooks;Thomas Mann;Germany;German;nonfiction;736;FALSE
+The Magic Mountain;Thomas Mann;Germany;German;data_science;720;TRUE
+Moby Dick;Herman Melville;United States;English;economics;378;FALSE
+Essays;Michel de Montaigne;France;French;economics;404;FALSE
+History;Elsa Morante;Italy;Italian;data_science;600;TRUE
+Beloved;Toni Morrison;United States;English;computer_science;321;FALSE
+The Tale of Genji;Murasaki Shikibu;Japan;Japanese;data_science;1360;FALSE
+The Man Without Qualities;Robert Musil;Austria;German;computer_science;365;TRUE
+Lolita;Vladimir Nabokov;Russia/United States;English;computer_science;317;FALSE
+Nineteen Eighty-Four;George Orwell;United Kingdom;English;fiction;272;FALSE
+Metamorphoses;Ovid;Roman Empire;Classical Latin;fiction;576;FALSE
+The Book of Disquiet;Fernando Pessoa;Portugal;Portuguese;fiction;272;FALSE
+Tales;Edgar Allan Poe;United States;English;nonfiction;842;TRUE
+In Search of Lost Time;Marcel Proust;France;French;fiction;2408;FALSE
+Gargantua and Pantagruel;Francois Rabelais;France;French;nonfiction;623;FALSE
+Pedro Paramo;Juan Rulfo;Mexico;Spanish;fiction;124;TRUE
+The Masnavi;Rumi;Sultanate of Rum;Persian;history;438;FALSE
+Midnight's Children;Salman Rushdie;United Kingdom, India;English;fiction;536;FALSE
+Bostan;Saadi;Persia, Persian Empire;Persian;history;298;FALSE
+Season of Migration to the North;Tayeb Salih;Sudan;Arabic;nonfiction;139;TRUE
+Blindness;Jose Saramago;Portugal;Portuguese;history;352;FALSE
+Hamlet;William Shakespeare;England;English;economics;432;FALSE
+King Lear;William Shakespeare;England;English;nonfiction;384;TRUE
+Othello;William Shakespeare;England;English;nonfiction;314;FALSE
+Oedipus the King;Sophocles;Greece;Greek;nonfiction;88;FALSE
+The Red and the Black;Stendhal;France;French;fiction;576;FALSE
+The Life And Opinions of Tristram Shandy;Laurence Sterne;England;English;nonfiction;640;TRUE
+Confessions of Zeno;Italo Svevo;Italy;Italian;nonfiction;412;FALSE
+Gulliver's Travels;Jonathan Swift;Ireland;English;history;178;FALSE
+War and Peace;Leo Tolstoy;Russia;Russian;history;1296;TRUE
+Anna Karenina;Leo Tolstoy;Russia;Russian;fiction;864;FALSE
+The Death of Ivan Ilyich;Leo Tolstoy;Russia;Russian;history;92;FALSE
+The Adventures of Huckleberry Finn;Mark Twain;United States;English;fiction;224;TRUE
+Ramayana;Valmiki;India;Sanskrit;history;152;FALSE
+The Aeneid;Virgil;Roman Empire;Classical Latin;fiction;442;FALSE
+Mahabharata;Vyasa;India;Sanskrit;philosophy;276;FALSE
+Leaves of Grass;Walt Whitman;United States;English;philosophy;152;TRUE
+Mrs Dalloway;Virginia Woolf;United Kingdom;English;nonfiction;216;FALSE
+To the Lighthouse;Virginia Woolf;United Kingdom;English;fiction;209;TRUE
+Memoirs of Hadrian;Marguerite Yourcenar;France/Belgium;French;science;408;FALSE
